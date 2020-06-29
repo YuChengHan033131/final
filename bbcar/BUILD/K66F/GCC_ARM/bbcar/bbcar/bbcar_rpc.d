@@ -1,7 +1,6 @@
 BUILD/K66F/GCC_ARM/bbcar/bbcar/bbcar_rpc.o: bbcar/bbcar/bbcar_rpc.cpp \
  BUILD/K66F/GCC_ARM/mbed_config.h bbcar/bbcar/bbcar_rpc.h \
- bbcar/bbcar/bbcar.h bbcar/bbcar/parallax_servo.h \
- /home/ee2405/ee2405/mbed-os/mbed.h \
+ bbcar/bbcar/bbcar.h /home/ee2405/ee2405/mbed-os/mbed.h \
  /home/ee2405/ee2405/mbed-os/platform/mbed_version.h \
  /home/ee2405/ee2405/mbed-os/rtos/rtos.h \
  /home/ee2405/ee2405/mbed-os/rtos/mbed_rtos_storage.h \
@@ -240,9 +239,9 @@ BUILD/K66F/GCC_ARM/bbcar/bbcar/bbcar_rpc.o: bbcar/bbcar/bbcar_rpc.cpp \
  /home/ee2405/ee2405/mbed-os/platform/Callback.h \
  /home/ee2405/ee2405/mbed-os/platform/FunctionPointer.h \
  /home/ee2405/ee2405/mbed-os/platform/ScopedLock.h \
- bbcar/bbcar/parallax_encoder.h bbcar/bbcar/parallax_ping.h \
- bbcar/mbed_rpc/mbed_rpc.h bbcar/mbed_rpc/rpc.h \
- bbcar/mbed_rpc/Arguments.h \
+ bbcar/bbcar/parallax_servo.h bbcar/bbcar/parallax_encoder.h \
+ bbcar/bbcar/parallax_ping.h bbcar/mbed_rpc/mbed_rpc.h \
+ bbcar/mbed_rpc/rpc.h bbcar/mbed_rpc/Arguments.h \
  /home/ee2405/ee2405/mbed-os-build/features/mbedtls/mbed-crypto/inc/mbedtls/platform.h \
  bbcar/mbed_rpc/RPCVariable.h bbcar/mbed_rpc/RPCFunction.h \
  bbcar/mbed_rpc/RpcClasses.h

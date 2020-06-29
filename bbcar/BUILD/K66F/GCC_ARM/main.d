@@ -244,4 +244,4 @@ BUILD/K66F/GCC_ARM/main.o: main.cpp BUILD/K66F/GCC_ARM/mbed_config.h \
  bbcar/mbed_rpc/Arguments.h \
  /home/ee2405/ee2405/mbed-os-build/features/mbedtls/mbed-crypto/inc/mbedtls/platform.h \
  bbcar/mbed_rpc/RPCVariable.h bbcar/mbed_rpc/RPCFunction.h \
- bbcar/mbed_rpc/RpcClasses.h
+ bbcar/mbed_rpc/RpcClasses.h function.h

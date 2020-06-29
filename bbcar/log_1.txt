@@ -1,0 +1,33 @@
+go straight until wall
+angle correction
+backward 8cm
+rotate 90 degree
+enter mission 1 ,go straight until wall
+angle correction
+rotate -90 degree
+parking
+go straight until wall
+rotate 90 degree
+backward 55 cm 
+rotate -90 degree
+snapshot
+rotate 90 degree
+backward 75 cm 
+image guess:4
+mission 1 end,rotate 90 degree
+moving to mission 2, go straight until wall
+rotate -90 degree
+mission 2 start,go straight 50 cm
+rotate 90 degree
+angle correction
+backward 25 cm
+rotate -90 degree
+determine shape:equilateral triangle(40.867710)
+rotate 90 degree
+go straight until wall
+angle correction
+rotate -90 degree
+leaving mission 2, go straight until wall
+rotate 90 degree
+backward 150 cm
+end
